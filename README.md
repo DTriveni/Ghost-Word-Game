@@ -1,6 +1,7 @@
 # Ghost Word Game in R
 
-This repository contains an interactive implementation of the classic **Ghost Word Game** using R. The game is designed for two players who take turns adding letters to form a word. The goal is to avoid completing a valid word with more than 3 letters, or creating a fragment that cannot possibly form a word.
+This repository contains an interactive implementation of the classic **Ghost Word Game** using R. The game is designed for two players who take turns adding letters to form a word. The goal is to avoid completing a valid word with more than 3 letters, or creating a fragment that cannot possibly form a word.  
+This problem is taken from the course offered in MIT - Introduction to Computer Science and Programming in MIT OCW. (The terms of use are in http: // ocw. mit. edu/ terms ).  
 
 ## Features
 - **Interactive gameplay**: Two players take turns inputting a single alphabet.
